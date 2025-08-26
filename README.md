@@ -1,4 +1,4 @@
-# Trade_Bot
+# Trade Bot
 
 A simple Bitcoin trading strategy backtester and bot for fun and learning.  
 The project demonstrates a MACD-based strategy and compares it against HODL.
