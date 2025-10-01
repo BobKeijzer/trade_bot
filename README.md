@@ -19,5 +19,4 @@ In other words, the strategy prioritizes smoother, less volatile growth rather t
 
 ## License
 
-`btc_hourly_ohclv.csv` is under the MIT License (see LICENSE file).  
-Other code and files are free to use for learning and experimentation.
+`btc_hourly_ohclv.csv` is under the MIT License (see LICENSE file). 
